@@ -1,0 +1,3 @@
+[submodule "models"]
+	path = models
+	url = git@repositories.compbio.cs.cmu.edu:cellorganizer/models.git
